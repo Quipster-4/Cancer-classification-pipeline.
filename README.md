@@ -14,8 +14,7 @@
 
 ### Quick Validation (2 minutes):
 1. Clone the repo
-2. Run `python test_project.py` (if available)
-3. Open the notebook and run the first 5 cells
+2. Open the notebook and run the first 5 cells
 
 ### Full Test (10 minutes):
 1. Run the entire notebook start to finish
